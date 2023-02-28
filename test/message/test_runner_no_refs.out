@@ -20,11 +20,11 @@ not ok 1 - does not keep event loop alive
   stack: |-
     *
   ...
-1..1
-# tests 1
+1..2
+# tests 2
 # pass 0
 # fail 0
-# cancelled 1
+# cancelled 2
 # skipped 0
 # todo 0
 # duration_ms *

@@ -189,11 +189,11 @@ ok 14 - describe only = true, with subtests
   ---
   duration_ms: *
   ...
-1..14
-# tests 14
-# pass 4
+1..34
+# tests 34
+# pass 14
 # fail 0
 # cancelled 0
-# skipped 10
+# skipped 20
 # todo 0
 # duration_ms *

@@ -99,9 +99,9 @@ ok 13 - top level describe enabled
   ...
 1..13
 # tests 13
-# pass 4
+# pass 6
 # fail 0
 # cancelled 0
-# skipped 9
+# skipped 7
 # todo 0
 # duration_ms *

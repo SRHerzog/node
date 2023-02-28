@@ -490,11 +490,11 @@ not ok 13 - t.after() is called if test body throws
     *
   ...
 # - after() called
-1..13
-# tests 13
-# pass 2
-# fail 11
-# cancelled 0
+1..35
+# tests 35
+# pass 14
+# fail 19
+# cancelled 2
 # skipped 0
 # todo 0
 # duration_ms *

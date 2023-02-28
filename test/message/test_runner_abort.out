@@ -259,11 +259,11 @@ not ok 4 - callback abort signal
     *
     *
   ...
-1..4
-# tests 4
-# pass 0
+1..22
+# tests 22
+# pass 8
 # fail 0
-# cancelled 4
+# cancelled 14
 # skipped 0
 # todo 0
 # duration_ms *
